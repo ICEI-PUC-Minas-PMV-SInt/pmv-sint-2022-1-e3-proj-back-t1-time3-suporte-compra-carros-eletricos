@@ -1,46 +1,78 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Contexto 
+
+Devido à uma atual preocupação com o meio ambiente, há um crescente interesse, tanto de consumidores quanto de empresas, em tecnologias ambientalmente amigáveis. Dado este cenário, os carros elétricos vêm recebendo uma favorável demanda no mercado brasileiro pelos “Early adopters ” (pessoas mais dispostas a usarem novas tecnologias), apesar do elevado custo, pois tem zero emissão de poluentes e proporciona grande economia em relação aos veículos a combustão. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Atualmente com o aumento da comercialização de veículos elétricos no Brasil, são levantados alguns questionamentos pelos consumidores como: “Qual seria a autonomia deste modelo de carro?", “Quais locais possuem eletropostos para fazer a recarga da bateria caso necessário?”, ou até mesmo, “Qual modelo irá me trazer o melhor custo benefício?".  
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Contudo não se encontra na internet sistemas voltados para responder tais perguntas por isso é necessária a criação de uma aplicação que forneça suporte de informações aos consumidores. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### Objetivo Geral:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+ Desenvolver uma aplicação web que possibilite ao usuário uma maior autonomia em relação a veículos elétricos no mercado brasileiro.
+
+
+### Objetivos específicos:
+
+-Desenvolver um sistema capaz de cadastrar, atualizar e deletar usuários  e veículos.
+
+-Criar um mecanismo capaz de calcular e comparar o consumo de veículos a combustão e elétricos.
+
+-Listar postos de abastecimentos próximos de acordo com a localização do usuário.
+
+-Listar veículos elétricos e a combustão disponíveis no mercado brasileiro.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Ao observar a lacuna existente nas ferramentas disponíveis no mercado para dar suporte ao processo de compra de veículos elétricos, bem como o investimento inicial para adquirir essa tecnologia ser alto, torna-se viável a criação de um sistema, neste especificamente, web para auxiliar de forma clara e objetiva os futuros compradores.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Além dessas lacunas que geraram a possibilidade da criação deste projeto, existe a motivação interna do grupo que busca fazer a diferença para o futuro da tecnologia, que conta com membros apaixonados pela inovação e, acima de tudo, preocupados com o meio ambiente.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O sistema tem por foco, portanto, auxiliar na tomada de decisão em adquirir um veículo elétrico com base em autonomia e custo. Como um incentivo a mais, observou-se que este sistema é pioneiro ao abordar uma ferramenta com vastas opções de expansão, como: comparativo entre veículos, históricos, consultar pontos de abastecimento, entre outros.
+## Estado da Arte
+
+A pesquisa aqui descrita, de caráter investigativo, objetivou mapear as informações disseminadas pela internet e lojas de aplicativos, como GooglePlay e AppStore, analisando especificadamente o processo de cálculo de veículos elétricos com base em autonomia e custo de energia e com o suporte ao processo de compra dos mesmos.
+
+Para esta finalidade, foram analisados os sites e o aplicativo abaixo:
+
+- Texto informativo do Site iCarros:
+
+  https://www.icarros.com.br/noticias/geral/quanto-custa-carregar-um-carro-eletrico-/28839.html
+
+  Destaca a economia em relação aos carros a combustão e sua relação ao uso mais urbano ou na estrada.
+
+- Texto informativo do site Luz Solar:
+
+  https://luzsolar.com.br/carro-eletrico-x-gasolina/
+
+  Aborda as vantagens dos carros elétricos com várias informações.
+
+- Calculadora para verificar a economia de um veículo elétrico comparado ao de combustão do Site NeoCharge:
+
+  https://www.neocharge.com.br/calculadora-carro-eletrico
+
+  Apresenta uma calculadora que visa calcular a economia de um veículo elétrico no final de 1 ano, apesar de funcional, carece de informações para auxiliar nos passos para o preenchimento.
+
+- Aplicativo brasileiro com mapa de pontos de recarga:
+
+  https://play.google.com/store/apps/details?id=com.tupinamba
+
+  https://apps.apple.com/br/app/tupinamba/id1499575119
+
+  Um aplicativo brasileiro, disponível nas lojas digitais GooglePlay e AppStore, nele é possível verificar os pontos de recargas credenciados pelo aplicativo.
+
+##### Considerações finais
+
+É interessante ressaltar, que os sites analisados informam o custo-benefício do carro elétrico em relação ao de combustão, mas não conduz de forma clara como encontrar o custo da energia. No único site com o exemplo de uma calculadora de economia o mesmo carece de informações e orientações de preenchimento e seu resultado é genérico. Todos os aplicativos encontrados nas lojas digitais tem enfoque em pontos de recarga.
+
+Isto reforça o desafio de desenvolver uma aplicação para suporte ao processo de compra de veículos elétricos com base em autonomia e custo de energia, explicitando-se o custo-benefício e informações a partir de uma linguagem apropriada, levando a conscientização dos potenciais compradores.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Considerando que os veículos elétricos tem um custo alto, o público-alvo será pessoas da classe média alta.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas com ensino superior completo, emprego estável e uma carreira já definida, de 35 a 60 anos, com renda mensal acima de R$ 8 mil mensal, moradores da região sudeste e que são apaixonados por inovação tecnologicas ou preocupados com o meio ambiente.
