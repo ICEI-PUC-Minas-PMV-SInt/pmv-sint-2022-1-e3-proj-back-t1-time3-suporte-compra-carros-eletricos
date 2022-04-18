@@ -1,36 +1,64 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
-## Diagrama de Fluxo
+## User Flow (De acordo com os RF de alta prioridade)
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+![Exemplo de UserFlow](img/userflow_projeto_2022.png)
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+A partir da tela de início (Home) da aplicação, o usuário poderá seguir para a página de Calculadora que possui três opçôes, escolhendo a opção "Veículos cadastrados", o usuário poderá escolher o veículo elétrico e a combustão de uma lista. Para administração, a partir da tela de início, poderá acessar a tela de lista de administradores e cadastro/edição de carros elétricos e a combustão.
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+## User Flow (Visão geral)
+<p align="center">
+<img src="img/userflow_projeto.jpg">
+</p>
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+A partir da tela de início (Home) da aplicação, o usuário poderá seguir para a página de Calculadora que possui três opçôes; para a página Curiosidades que possui informações da área; para a página Lista de carros elétricos que exibe os carros elétricos disponíveis no sistema e no Brasil; para a página pontos de eletropostos que permite pesquisa de pontos próximos e por último a página do Glossário que tem o siginificado de alguns termos da área. Para administração, a partir da tela de início, poderá acessar as telas de cadastro, edição e exclusão de administradores, carros elétricos e carros a combustão.
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+A seguir, encontram-se os protótipos utilizados para o desenvolvimento das interfaces de usuários da aplicação.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+<kbd> <img alt="Index" src="img/p1.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Página inicial" src="img/p3.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Personalizado - Escolha" src="img/p3-1.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Personalizado - Escolha - Resultado" src="img/p3-1-2.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Veículos cadastrados - Escolha" src="img/p3-2.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Veículos cadastrados - Escolha - Verifica Escolha" src="img/p3-2-1.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Veículos cadastrados - Escolha - Verifica Escolha - Resultado" src="img/p3-2-2.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Meu veículo vs Elétrico - Escolha" src="img/p3-3.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Meu veículo vs Elétrico - Escolha - Verifica Escolha" src="img/p3-3-1.jpg" /> </kbd>
+
+<kbd> <img alt="Calculadora - Meu veículo vs Elétrico - Escolha - Verifica Escolha - Resultado" src="img/p3-3-2.jpg" /> </kbd>
+
+<kbd> <img alt="Curiosidades" src="img/p4.jpg" /> </kbd>
+
+<kbd> <img alt="Veículos elétricos cadastrados" src="img/p5.jpg" /> </kbd>
+
+<kbd> <img alt="Pontos de Eletropostos" src="img/p6.jpg" /> </kbd>
+
+<kbd> <img alt="Glossario" src="img/p7.jpg" /> </kbd>
+
+<kbd> <img alt="Login Administrador" src="img/p2.jpg" /> </kbd>
+
+<kbd> <img alt="Administrador - Cadastro" src="img/p2-1.jpg" /> </kbd>
+
+<kbd> <img alt="Administrador - Editar e Excluir" src="img/p2-1-1.jpg" /> </kbd>
+
+<kbd> <img alt="Carros Elétricos - Cadastro" src="img/p2-2.jpg" /> </kbd>
+
+<kbd> <img alt="Carros Elétricos - Editar e Excluir" src="img/p2-2-1.jpg" /> </kbd>
+
+<kbd> <img alt="Carros a Combustão - Cadastro" src="img/p2-3.jpg" /> </kbd>
+
+<kbd> <img alt="Carros a Combustão - Editar e Excluir" src="img/p2-3-1.jpg" /> </kbd>
