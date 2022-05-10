@@ -23,6 +23,8 @@ A partir da tela de início (Home) da aplicação, o usuário poderá seguir par
 
 A seguir, encontram-se os protótipos utilizados para o desenvolvimento das interfaces de usuários da aplicação.
 
+[Diagrama interativo](https://www.figma.com/proto/PyUYTOwNbD2L0Kt7jjWXF2/Grupo-02---Ciclo-02?node-id=706%3A299&scaling=min-zoom&page-id=706%3A298&starting-point-node-id=706%3A299&show-proto-sidebar=1)
+
 <kbd> <img alt="Index" src="img/p1.jpg" /> </kbd>
 
 <kbd> <img alt="Calculadora - Página inicial" src="img/p3.jpg" /> </kbd>
