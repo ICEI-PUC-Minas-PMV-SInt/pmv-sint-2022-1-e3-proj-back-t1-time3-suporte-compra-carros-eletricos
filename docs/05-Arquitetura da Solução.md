@@ -24,8 +24,12 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
+O esquema é composto por três tabelas. Uma tabela representando os usuários (administrativos) do sistema, com seus respectivos dados. E duas tabelas
+para representar os carros elétricos e os carros a combustão. Os carros recebem como chave estrangeira a chave primária do usuário que o cadastrou, possibilitando
+em sua seção, listar somente os carros cadastrados por ele.
+
+![Esquema Relacional](img/esquema_relacional.png)
+
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
