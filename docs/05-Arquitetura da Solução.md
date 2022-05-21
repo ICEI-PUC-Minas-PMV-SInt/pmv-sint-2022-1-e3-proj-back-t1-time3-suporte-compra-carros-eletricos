@@ -32,8 +32,8 @@ em sua seção, listar somente os carros cadastrados por ele.
 
 
 ## Modelo Físico (DDL)
-
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Segue abaixo o arquivo contendo os comandos para a criação das tabelas do banco de dados relacional. 
+![Modelo Físico DDL](src/bd/eletricharge.sql)
 
 ## Instruções SQL de Manipulação do BD (DML)
 
