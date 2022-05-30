@@ -41,13 +41,36 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Tecnologias utilizadas para geração de conteúdo no lado servidor.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+ - **Framework ASP.NET Core MVC** 
+
+Outras tecnologias 
+
+IDE (Ambiente de desenvolvimento integrado) 
+
+Usado para o desenvolvimento do código. 
+
+- **Visual Studio 2022** 
+
+Ferramentas 
+
+Usadas para a criação dos diagramas presentes na documentação do projeto. 
+
+- **Figma** 
+
+- **Lucidchart** 
+
+
+Figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+![Web Application](https://user-images.githubusercontent.com/81269914/171063969-73541949-04d3-458b-96c9-a25b6375d656.png)
+
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+- **Heroku**
+
+O Heroku utiliza o Git para realizar o deploy dos app.
 
 > **Links Úteis**:
 >
