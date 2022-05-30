@@ -160,5 +160,7 @@ O diagrama de casos de uso utiliza um modelo gráfico com descrições sucintas 
 
 
 <p align="center">
-<img alt="Casos de uso" src="img/CasosDeUso.png">
+ 
+![Caso de uso](https://user-images.githubusercontent.com/81269914/171059106-71dab333-659b-4e00-a5f8-f5900ec0170e.png)
+
 </p>
