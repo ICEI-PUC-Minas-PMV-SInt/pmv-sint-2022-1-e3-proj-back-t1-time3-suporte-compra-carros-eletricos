@@ -32,11 +32,11 @@ em sua seção, listar somente os carros cadastrados por ele.
 
 
 ## Modelo Físico (DDL)
-O arquivo contendo os comandos para a criação das tabelas do banco de dados relacional do projeto encontra-se dentro da pasta src/bd. 
+O arquivo (ddl.sql) contendo os comandos para a criação das tabelas do banco de dados relacional do projeto encontra-se dentro da pasta src/bd. 
 
 ## Instruções SQL de Manipulação do BD (DML)
 
-Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+O arquivo (dml.sql) contendo os scripts de manipulação de banco de dados está incluído dentro da pasta src\bd.
 
 ## Tecnologias Utilizadas
 
