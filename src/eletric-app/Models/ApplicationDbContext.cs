@@ -9,5 +9,6 @@ namespace eletric_app.Models
         }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<VeiculoC> VeiculosC { get; set; }
+        public DbSet<VeiculoE> VeiculosE { get; set; }
     }
 }

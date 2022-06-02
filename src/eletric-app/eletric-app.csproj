@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\VeiculoCs - Cópia\**" />
+    <Content Remove="Views\VeiculoCs - Cópia\**" />
+    <EmbeddedResource Remove="Views\VeiculoCs - Cópia\**" />
+    <None Remove="Views\VeiculoCs - Cópia\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\HomeController1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.17" />
