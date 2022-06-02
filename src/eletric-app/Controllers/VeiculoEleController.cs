@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using eletric_app.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace eletric_app.Controllers
 {
+    [Authorize]
     public class VeiculoEleController : Controller
     {
         private readonly ApplicationDbContext _context;
