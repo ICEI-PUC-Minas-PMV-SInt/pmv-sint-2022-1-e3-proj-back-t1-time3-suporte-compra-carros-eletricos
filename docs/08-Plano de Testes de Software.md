@@ -5,30 +5,19 @@ O processo de realização dos testes da solução desenvolvida está documentad
 <table>
   <tr>
     <th> Caso teste 1 </th>
-    <th> CT-01    </th>
+    <th> CT-01  Cadastro de veículos </th>
   </tr>
   
  <tr>
     <th> Requisitos associados </th>
-    <th>  </th>
+    <th> [RF-001]	Permitir que o administrador/usuário realize o cadastro de veículos (elétricos e a combustão) </th>
   </tr>
   
    <tr>
   <th> Objetivo do Teste </th>
-   <th> </th>
+   <th> Verificar se usuários logados podem fazer cadastro de veículos elétricos e a combustão </th>
   </tr>
-  
-   <tr>
-  <th> Sequência </th>
-   <th> 
-     <li>  </li>
-  </th>
-  </tr>
-    <tr>
-  <th> Critérios de Êxito</th>
-<th>
-  <li> </li>
- 
+   
 </th>
   </tr>
   
