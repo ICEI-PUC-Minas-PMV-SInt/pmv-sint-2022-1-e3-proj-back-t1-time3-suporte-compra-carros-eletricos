@@ -118,11 +118,11 @@ estão relacionados com o cadastro do usuário administrativo e com o cadastro d
 
 |ID    | Descrição do Requisito  | Prioridade |
 |-----|-----------------------------------------|----|
-|RF-001| Permitir que o administrador realize o cadastro de veículos (elétricos e a combustão) | ALTA |
+|RF-001| Permitir que o administrador/usuários realize o cadastro de veículos (elétricos e a combustão) | ALTA |
 |RF-002| Permitir que o usuário escolha o modelo do veículo (elétricos e a combustão) entre as opções cadastradas | ALTA |
-|RF-003| Permitir que o administrador efetue Logon no sistema | ALTA |
-|RF-004| Permitir que o administrador efetue Logoff no sistema | ALTA |
-|RF-005| Permitir recuperação de login| MÉDIA |
+|RF-003| Permitir que o administrador/usuários efetue Logon no sistema | ALTA |
+|RF-004| Permitir que o administrador/usuários efetue Logoff no sistema | ALTA |
+|RF-005| Permitir recuperação de login| BAIXA |
 |RF-006| Criar 3 tipos de calculadora para escolha do usuario | MÉDIA |
 |RF-007| Realizar os cálculos necessários para comparação da autonomia e custo beneficio entre carros elétricos x combustão | BAIXA |
 |RF-008| Cada campo do formulário deve ser validado quanto ao tipo de dado (inteiro/real/caractere) | BAIXA |
