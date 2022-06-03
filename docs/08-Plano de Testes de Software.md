@@ -1,10 +1,38 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+<table>
+  <tr>
+    <th> Caso teste 1 </th>
+    <th> CT-01    </th>
+  </tr>
+  
+ <tr>
+    <th> Requisitos associados </th>
+    <th>  </th>
+  </tr>
+  
+   <tr>
+  <th> Objetivo do Teste </th>
+   <th> </th>
+  </tr>
+  
+   <tr>
+  <th> Sequência </th>
+   <th> 
+     <li>  </li>
+  </th>
+  </tr>
+    <tr>
+  <th> Critérios de Êxito</th>
+<th>
+  <li> </li>
+ 
+</th>
+  </tr>
+  
+</table>
  
 ## Ferramentas de Testes (Opcional)
 
