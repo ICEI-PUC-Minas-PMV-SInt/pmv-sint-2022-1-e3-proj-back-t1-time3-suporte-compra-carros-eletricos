@@ -112,5 +112,6 @@ https://user-images.githubusercontent.com/81269914/171933827-27632c8d-8b9b-4291-
 https://user-images.githubusercontent.com/81269914/171933880-7741bf21-8c54-4059-a09b-cb818b560ff9.mp4
 
 ## Avaliação
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
+Como foi possível observar no tópico anterior,em todos os casos os critérios de êxito foram alcançados com sucesso. 
 
