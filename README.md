@@ -9,7 +9,6 @@
 ## Integrantes
 
 * Iara Camargo
-* Tulio Teodoro
 * Yuri Ribeiro
 
 ## Orientador
