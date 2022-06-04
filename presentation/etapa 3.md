@@ -27,4 +27,7 @@ O projeto possui 3 telas de CRUD:
 
 * Vídeo Iara
 https://youtu.be/f_ckzeavPOg
+
+* Vídeo Yuri
+https://youtu.be/HY3jpRZ5GJ4
  
